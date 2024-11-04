@@ -1,0 +1,1 @@
+This repository contains my progressive learning towards the road to become a data scientist in five weeks and these are my R files which I was working on. I learnt alot in the journey to become a data scientist including machine learning methods using R. Check my work!!
